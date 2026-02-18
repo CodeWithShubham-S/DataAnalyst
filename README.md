@@ -20,5 +20,5 @@ A **BE-CSE graduate** with 11 years of professional experience. I specialize in 
 - 📈 **[Operations Dashboard]:** Power BI suite for real-time resource allocation tracking.
 
 ### 📫 Connect with me:
-- **LinkedIn:** https://www.linkdin.com/in/shubham-saurabh-105151179
+- **LinkedIn:** [https://www.linkdin.com/in/shubham-saurabh-105151179](https://www.linkedin.com/in/shubham-saurabh-105151179/)
 - **Email:** shubhamsaurabh901@gmail.com
